@@ -1,0 +1,66 @@
+body,html{
+	width:100%;
+	height:100%;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+header.startup{
+	background-image: url("jeremy-goldberg-688934-unsplash.jpg");
+	background-position: center;
+    background-size: cover;
+    height: 100%;
+}
+
+.welcomeMsg{
+	margin-top: 200px;
+	color: white;
+	text-transform: uppercase;
+}
+
+.enterBtn{
+	margin-top: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	color: #EF5A1F;
+	text-transform: uppercase;
+	background-color: white;
+	border-radius: 25px;
+	width: 190px;
+	padding: 10px;
+	font-weight: 600;
+}
+
+.enterBtn:hover{
+	background-color: #EF5A1F;
+	color: white;
+	cursor: pointer;
+	width: 200px;
+}
+
+footer{
+	/* text-align: center; */
+	font-size: 0.8em;
+	color: white;
+	background-color: black;
+	position: fixed;
+	width: 100%;
+	bottom: 0px;
+	vertical-align: middle;
+}
+
+.subscribeBtn{
+	color: white;
+	text-transform: uppercase;
+	background-color: #EF5A1F;
+	border-radius: 5px;
+	padding: 5px;
+	margin: 5px;
+	font-weight: 600;
+	float: right;
+}
+
+.subscribeBtn:hover{
+	background-color: white;
+	color: #EF5A1F;
+	cursor: pointer;
+}
