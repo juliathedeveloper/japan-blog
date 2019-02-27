@@ -1,2 +1,2 @@
 # japanblog.github.io
-A blog about Japan
+This is the landing page for my blog on Japan travel.
